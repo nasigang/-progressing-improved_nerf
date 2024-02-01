@@ -20,7 +20,6 @@ from load_blender import load_blender_data
 from load_LINEMOD import load_LINEMOD_data
 
 import wandb
-# from pytorch_msssim import ms_ssim
 
 # os.environ["CUDA_VISIBLE_DEVICE"]="1"
 
