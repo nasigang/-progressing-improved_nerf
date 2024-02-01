@@ -21,9 +21,7 @@ python run_nerf.py --config configs/lego.txt
 ```
 
 After training for 200k iterations (~7 hours on a single 4070 Ti), you can find the following video at `logs/lego_test/ssim/lego_test_spiral_200000_rgb.mp4`.
-![blender_paper_lego_spiral_200000_rgb](https://github.com/nasigang/-progressing-improved_nerf/assets/112176462/3d7b6daf-914c-463f-8b06-e30a9c8cff7c)
-
-
+![blender_paper_lego_spiral_200000_rgb (1)](https://github.com/nasigang/-progressing-improved_nerf/assets/112176462/fe807f08-01d5-4a33-bfc9-dbe8c9078187)
 
 
 
